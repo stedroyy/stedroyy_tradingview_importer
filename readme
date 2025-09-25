@@ -1,0 +1,5 @@
+to use the importer 
+
+1. pipinstall the required libraries
+2. (optional) change the name of the csv export (this can be done after the csv has been created anyways so its not a big deal)
+3. run the file, then copy from your tradingview csv and pate it into the prompt (seperated by line, but tradingview export does that automatically, so just ctrl +a, ctrl +c, ctrl +v should work fine
